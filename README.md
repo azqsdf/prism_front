@@ -1,9 +1,11 @@
-# PRISM ITEWON
+# 🔺 PRISM ITEWON  
+![header](https://capsule-render.vercel.app/api?text=PRISM_ITEWON&animation=fadeIn)
+
 
 해당 프로젝트는 이태원에 있는 PRISM website source code를 관리하는 곳입니다.
 
 
-## Getting Started
+## ⚡ Getting Started 
 
 ### `npm start`
 앱이 개발 모드에서 실행됩니다.
@@ -29,14 +31,14 @@ React를 프로덕션 모드에서 올바르게 번들링하고 최상의 성능
 빌드는 최소화(minified)되며, 파일 이름에는 해시가 포함됩니다.
 
 
-## ISSUE TRACKING WEBSITE [NOTION]
+##  📗 ISSUE TRACKING WEBSITE [NOTION]
 모든 이슈는 노션에서 관리하고 있으며, 해당 웹사이트는 [여기](https://www.notion.so/ISSUE-MANAGEMENT-1117e8ef1332808b84aafc7f9762c896?pvs=4)를 클릭하시면 됩니다.
 
 
-## Contributor
+## 🧟‍♂️ Contributor 
 
-### 1. 92년생 조주현 
+### 1. 92년생 조주현 [<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>](https://www.instagram.com/jhyunlol/)
 
-### 2. 94년생 조규진
+### 2. 94년생 조규진 [<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>](https://www.instagram.com/jcho_9408/)
 
 ### 3. 94년생 박가람
