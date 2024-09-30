@@ -1,46 +1,42 @@
-# Getting Started with Create React App
+# PRISM ITEWON
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+해당 프로젝트는 이태원에 있는 PRISM website source code를 관리하는 곳입니다.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Getting Started
 
 ### `npm start`
+앱이 개발 모드에서 실행됩니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+브라우저에서 http://localhost:3000을 열어보세요.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+편집을 하면 페이지가 새로 고쳐집니다.
+
+콘솔에서는 린트 오류도 볼 수 있습니다.
+
 
 ### `npm test`
+인터랙티브 워치 모드에서 테스트 러너를 실행합니다.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+테스트 실행에 대한 자세한 내용은 해당 섹션을 참조하세요.
+
 
 ### `npm run build`
+앱을 프로덕션용으로 빌드하여 빌드 폴더에 저장합니다.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+React를 프로덕션 모드에서 올바르게 번들링하고 최상의 성능을 위해 빌드를 최적화합니다.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+빌드는 최소화(minified)되며, 파일 이름에는 해시가 포함됩니다.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## ISSUE TRACKING WEBSITE [NOTION]
+모든 이슈는 노션에서 관리하고 있으며, 해당 웹사이트는 [여기](https://www.notion.so/ISSUE-MANAGEMENT-1117e8ef1332808b84aafc7f9762c896?pvs=4)를 클릭하시면 됩니다.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributor
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### 1. 92년생 조주현 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### 2. 94년생 조규진
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 3. 94년생 박가람
