@@ -7,6 +7,14 @@
 
 ## ⚡ Getting Started 
 
+### `npm update`
+기존 PULL 받은 뒤, 새로생긴 라이브러리를 설치가능할 수 있습니다.
+
+또는, 기존 UPDATED 된 라이브러리를 다운받을 수 있습니다.
+
+'npm start'를 시작하기 전, 꼭 'npm update'를 실행해주세요.
+
+
 ### `npm start`
 앱이 개발 모드에서 실행됩니다.
 
