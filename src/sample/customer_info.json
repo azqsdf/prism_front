@@ -1,0 +1,45 @@
+﻿{
+	"customer_info":
+	[
+		{
+			"last_name": "조",
+			"first_name": "규진",
+			"age": 31,
+			"DOB": "1994-08-16",
+			"level": "platinum",
+			"barcode": "19940816platinumcho",
+			"date": "2024-10-31",
+			"expired_date": "2025-10-31"
+		},
+		{
+			"last_name": "박",
+			"first_name": "테스트",
+			"age": 45,
+			"DOB": "1980-06-20",
+			"level": "diamond",
+			"barcode": "19800620diamondpark",
+			"date": "2024-09-01",
+			"expired_date": "2026-09-01"
+		},
+		{
+			"last_name": "임",
+			"first_name": "가람",
+			"age": 31,
+			"DOB": "1994-07-03",
+			"level": "diamond",
+			"barcode": "1994diamondlim",
+			"date": "2024-08-01",
+			"expired_date": "2025-08-01"
+		},
+		{
+			"last_name": "조",
+			"first_name": "주현",
+			"age": 33,
+			"DOB": "1992-04-17",
+			"level": "diamond",
+			"barcode": "19920417diamondcho",
+			"date": "2023-08-01",
+			"expired_date": "2024-08-01"
+		}
+	]
+}

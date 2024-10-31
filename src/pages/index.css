@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Yangjin-Regular";
+    font-weight: normal;
+    src:url("./../fonts/Yangjin.otf") format("truetype");
+}
+body{
+    font-family: "Yangjin-Regular";
+}
+
+.title{
+    background-color: darkorange;
+    text-align: center;
+}
