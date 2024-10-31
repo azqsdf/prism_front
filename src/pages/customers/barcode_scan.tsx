@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import './barcode_scan.css';
 
 const Barcode_scan: React.FC = () => {
