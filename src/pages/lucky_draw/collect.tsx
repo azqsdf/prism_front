@@ -1,10 +1,12 @@
 import React from 'react';
 
+
 const Collect: React.FC = () => {
     return (
         <>
-            <div>
+            <div className="container">
                 <h1> This is Collect page</h1>
+
             </div>
         </>
     );
